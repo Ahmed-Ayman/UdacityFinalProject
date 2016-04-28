@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Application</string>
+    <string name="action_sort_by">Settings</string>
+    <string name="action_sort_by_popularity">Sort by Most Popular</string>
+    <string name="action_sort_by_rating">Sort by Top Rated</string>
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Released Date</string>
+    <string name="details">Details</string>
+    <string name="trailers_TextView">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="action_favorite"> Favorite</string>
+    <string name="content_authority">com.example.ahmedayman.movieapp</string>
+    <string name="action_sort_by_favorite">View the Favorites</string>
+
+</resources>
